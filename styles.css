@@ -1,0 +1,18 @@
+
+body {
+        background-color: rgb(250, 226, 249);
+    }
+hr {
+        border-style: none;
+        border-top-style: dotted; 
+        width: 15%; 
+        padding: 0px;
+        border-width: 10px; 
+        border-color: rgb(120, 91, 151);
+     }
+img {
+        height: 250px;
+    }
+h1 {color: #6041bc;}
+
+h3 {color: #846ad2;}
